@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Timothy You GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/timyou/my2wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
